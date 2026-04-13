@@ -13,10 +13,12 @@
 		44E384012F5A2B5A00061D5D /* Realtime in Frameworks */ = {isa = PBXBuildFile; productRef = 44E384002F5A2B5A00061D5D /* Realtime */; };
 		44E384032F5A2B5A00061D5D /* Storage in Frameworks */ = {isa = PBXBuildFile; productRef = 44E384022F5A2B5A00061D5D /* Storage */; };
 		44E384052F5A2B5A00061D5D /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = 44E384042F5A2B5A00061D5D /* Supabase */; };
+		A9C538982F8C944A00BBF4EB /* UserGuide.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A9C538972F8C944A00BBF4EB /* UserGuide.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		04848E952F50C83E008C7C96 /* Momentum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Momentum.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9C538972F8C944A00BBF4EB /* UserGuide.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = UserGuide.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -49,6 +51,7 @@
 			children = (
 				04848E972F50C83E008C7C96 /* Momentum */,
 				04848E962F50C83E008C7C96 /* Products */,
+				A9C538972F8C944A00BBF4EB /* UserGuide.pdf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -133,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9C538982F8C944A00BBF4EB /* UserGuide.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
