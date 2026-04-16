@@ -19,7 +19,10 @@
 /* Begin PBXFileReference section */
 		04848E952F50C83E008C7C96 /* Momentum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Momentum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 <<<<<<< HEAD
+<<<<<<< HEAD
 		A9C538972F8C944A00BBF4EB /* UserGuide.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = UserGuide.pdf; sourceTree = "<group>"; };
+=======
+>>>>>>> parent of 88ff96c (Merging)
 =======
 >>>>>>> parent of 88ff96c (Merging)
 /* End PBXFileReference section */
